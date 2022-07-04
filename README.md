@@ -25,3 +25,15 @@ First, download training data the LOL and the MIT-Adobe 5K datasets. Then, just 
 python train_lol.py
 python train_5k.py
 ```
+
+### Citation ###
+```
+@article{wang2022shedding,
+  title={Shedding Light on Images: Multi-Level Image Brightness Enhancement Guided by Arbitrary References},
+  author={Wang, Ya’nan and Jiang, Zhuqing and Liu, Chang and Li, Kai and Men, Aidong and Wang, Haiying and Chen, Xiaobo},
+  journal={Pattern Recognition},
+  pages={108867},
+  year={2022},
+  publisher={Elsevier}
+}
+```
