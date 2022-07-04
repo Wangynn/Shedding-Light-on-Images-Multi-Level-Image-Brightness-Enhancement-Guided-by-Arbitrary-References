@@ -1,4 +1,4 @@
-# Shedding Light on Images: Multi Level Image Brightness Enhancement Guided by Arbitrary References
+# Shedding Light on Images: Multi-Level Image Brightness Enhancement Guided by Arbitrary References
 
 This is a Tensorflow implement.
 
